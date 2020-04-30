@@ -1,0 +1,150 @@
+.body {
+    margin: 0;
+    padding: 0;
+    background:#242424;
+}
+
+.body .header {
+    position:absolute;
+    width: 20%;
+    top:10%;
+    left:40.5%;
+    color: white;
+    font-size: 2em;
+}
+
+.body .header .title {
+    position:relative;
+    left:0%;
+    font: bold 1em "Open Sans", sans-serif;
+    padding: 0.1em 0.3em;
+    font-family: proxima nova w15;
+}
+.body .text {
+    position:absolute;
+    top: 30%;
+    left: 15%;
+    color: white;
+    font: bold 1em "Open Sans", sans-serif;
+    font-family: proxima nova w15;
+}
+
+.body a {
+    text-decoration: underline;
+    color: white;
+    font: 1em "Open Sans", sans-serif;
+    font-family: proxima nova w15;
+}
+.body a:hover {
+    text-decoration: underline;
+    color: yellow;
+}
+.body .Anaconda {
+    position:absolute;
+    top: 37%;
+    left: 20%;
+    color: white;
+}
+
+.body .Pyzo {
+    position:absolute;
+    top: 42%;
+    left: 20%;
+    color: white;
+}
+.body .Pyzo .PyzoLink {
+    position:relative;
+}
+
+.body .Start .title {
+    position:absolute;
+    top: 55%;
+    left: 15%;
+    color: white;
+    font: bold 1em "Open Sans", sans-serif;
+    font-family: proxima nova w15;
+}
+.body .Start ul {
+    position:absolute;
+    top: 59%;
+    left: 18%;
+    color: white;
+    font: 1em "Open Sans", sans-serif;
+    font-family: proxima nova w15;
+}
+
+.body .PyzoStart .title {
+    position:absolute;
+    top: 80%;
+    left: 15%;
+    color: white;
+    font: bold 1em "Open Sans", sans-serif;
+    font-family: proxima nova w15;
+}
+.body .PyzoStart ul {
+    position:absolute;
+    top: 84%;
+    left: 18%;
+    color: white;
+    font: 1em "Open Sans", sans-serif;
+    font-family: proxima nova w15;
+}
+.body .PyzoStart .un{
+    position:absolute;
+    top: 95%;
+    left: 22%;
+    color: white;
+    font: 1em "Open Sans", sans-serif;
+    font-family: proxima nova w15;
+}
+.body .PyzoStart img {
+    position: absolute;
+    width: 300px;
+    top: 105%;
+    left: 22%;
+}
+.body .PyzoStart .deux{
+    position:absolute;
+    top: 110%;
+    left: 52%;
+    color: white;
+    font: 1em "Open Sans", sans-serif;
+    font-family: proxima nova w15;
+}
+.body .PyzoStart .trois{
+    position:absolute;
+    top: 137%;
+    left: 18%;
+    color: white;
+    font: 1em "Open Sans", sans-serif;
+    font-family: proxima nova w15;
+}
+
+.body .CodeStart .title{
+    position:absolute;
+    top: 153%;
+    left: 15%;
+    color: white;
+    font: bold 1em "Open Sans", sans-serif;
+    font-family: proxima nova w15;
+}
+.body .CodeStart ul{
+    position:absolute;
+    top: 157%;
+    left: 18%;
+    color: white;
+    font: 1em "Open Sans", sans-serif;
+    font-family: proxima nova w15;
+}
+.body .CodeStart .un {
+    position: absolute;
+    width: 300px;
+    top: 184%;
+    left: 22%;
+}
+.body .CodeStart .deux {
+    position: absolute;
+    width: 300px;
+    top: 220%;
+    left: 22%;
+}
